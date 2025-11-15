@@ -6,8 +6,7 @@
 
 ## 📌 Overview
 This project evaluates company sales performance across regions and product lines using **PostgreSQL**, **Pandas**, and **Power BI**.  
-Each tool applied independently to reproduce the same analytical objectives.
-It showcases how consistent business insights can be achieved across different analytical environments using SQL queries, Python logic, and DAX measures.
+Each tool applied independently to reproduce the same analytical objectives. It showcases how consistent business insights can be achieved across different analytical environments using SQL queries, Python logic, and DAX measures.
 
 ## ⚙️ Tools & Technologies
 - **Python (Pandas, PyCharm)** – Data cleaning, transformation, and exploratory computation
@@ -36,8 +35,7 @@ It showcases how consistent business insights can be achieved across different a
 - Produce portfolio-ready analytical documentation
 
 ## ⚠️ Data Notes
-The product name **"GTXPro"** in the pipeline table does not match **"GTX Pro"** in the master table due to a missing space.  
-This original mismatch was intentionally left unchanged, and some discrepancies in query results from others are expected as a result.
+The product name **"GTXPro"** in the pipeline table does not match **"GTX Pro"** in the master table due to a missing space. This original mismatch was intentionally left unchanged, and some discrepancies in query results from others are expected as a result.
 
 ## 🏁 Untold Stories
 - The highest win rate among sales agents does not guarantee the highest revenue.
